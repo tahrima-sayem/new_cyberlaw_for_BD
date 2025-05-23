@@ -169,7 +169,7 @@ The analysis highlights each country’s main laws, strengths, and how well they
 
 
 <p align="center">
-Table: Comparison among cyberlas of different countries.[7][8][9][10][11]12][13][14][15][16][17][18]
+Table: Comparison among cyberlaws of different countries.[7][8][9][10][11]12][13][14][15][16][17][18]
 </p>
 <br>
 
