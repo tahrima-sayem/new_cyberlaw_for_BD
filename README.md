@@ -143,7 +143,7 @@ To explore good examples of cyber laws, this study uses the World Happiness Repo
 
 ### **4. Switzerland**
 - **Happiness Rank:** 9th
-- **Highlights:**High living standards, strong economy, and excellent public services.
+- **Highlights:** High living standards, strong economy, and excellent public services.
 
 ### **5. United States of America (USA)**
 - **Happiness Rank:** 24th
