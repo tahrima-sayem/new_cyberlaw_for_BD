@@ -37,7 +37,7 @@ To help create better and fairer cyber laws, this study looks at five peaceful c
 Bangladesh is moving forward with its “Digital Bangladesh” plan to modernize the country using technology. With more people using online platforms, mobile banking, and social media, strong and fair cyber laws are becoming more important. While some laws have been made to protect people online, many of them are outdated, unclear, or seen as limiting basic rights.
 </p>
 
-### **Digital Security Act (DSA), 2018**[1]  
+### **1. Digital Security Act (DSA), 2018**[1]  
 
 **Key Points:**
 - Covers cybercrimes like hacking, fraud, phishing, cyberbullying, and fake news
@@ -49,7 +49,7 @@ Bangladesh is moving forward with its “Digital Bangladesh” plan to modernize
 - Police can arrest and search without a warrant in some cases
 - Widely criticized for violating freedom of speech and press freedom by Human Rights Watch and others
 
-### **Pornography Control Act, 2012**[2]
+### **2. Pornography Control Act, 2012**[2]
 **Key Points:**
 - Bans creating, sharing, and storing pornographic content, especially online
 - Targets websites and digital platforms involved in pornography
@@ -58,7 +58,7 @@ Bangladesh is moving forward with its “Digital Bangladesh” plan to modernize
 - Not clearly defined what content qualifies as pornography
 - Weak enforcement on digital platforms, especially social media
 
-### **Information and Communication Technology (ICT) Act, 2006**[3]
+### **3. Information and Communication Technology (ICT) Act, 2006**[3]
 
 **Key Points:**
 - First major law to fight cybercrimes and support e-transactions
@@ -72,7 +72,7 @@ Bangladesh is moving forward with its “Digital Bangladesh” plan to modernize
 
 
 
-### **Telecommunication Act, 2001**[4]  
+### **4. Telecommunication Act, 2001**[4]  
 
 **Key Points:**
 - Regulates telecom services and digital communication infrastructure
@@ -83,7 +83,7 @@ Bangladesh is moving forward with its “Digital Bangladesh” plan to modernize
 - Overlaps with DSA and ICT Act, creating confusion
 - Can be used for excessive monitoring of private communication
 
-###  **Draft Data Protection Act (Still Under Review)**[5]
+###  **5. Draft Data Protection Act (Still Under Review)**[5]
 
 **Key Points:**
 - Aims to regulate collection, storage, and sharing of personal data
